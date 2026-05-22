@@ -1,6 +1,6 @@
 # 📊 Portfolio Data Analyst - Assia Kamoune
 
-![Portfolio Badge](https://img.shields.io/badge/Status-En%20cours-blue)
+![Portfolio Badge](https://img.shields.io/badge)
 ![Data Analyst](https://img.shields.io/badge/Profession-Data%20Analyst-green)
 ![Power%20BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-F2CC0C)
 
