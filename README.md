@@ -69,7 +69,7 @@ Portfolio-Data-Analyst/
 Establir les fondations du portfolio en présentant le profil, les compétences et la structure.
 
 ### Livrables
-- [**Profil Assia Kamoune**] (./Data-CV.pdf) : CV détaillé avec compétences techniques et soft skills
+- [**Profil Assia Kamoune**](./Data-CV.pdf) : CV détaillé avec compétences techniques et soft skills
 - [**Carte mentale**](./https://miro.com/app/board/uXjVHfCbxbg=/): Organisation conceptuelle du portfolio
 
 ### Points clés du profil
