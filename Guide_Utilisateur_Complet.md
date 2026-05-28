@@ -39,7 +39,7 @@ Ce guide vous aide à naviguer dans le portfolio professionnel d'Assia Kamoune, 
 
 ### Option 1 : Portfolio Web (Recommandé)
 
-**URL :** https://assiakamoune-coder.github.io/portfolio
+**URL :** [https://assiakamoune-coder.github.io/portfolio](https://assiakamoune-coder.github.io/Assia-Kamoune-Portfolio-Aeroworld/)
 
 **Avantages :**
 - ✓ Accessible sans installation
